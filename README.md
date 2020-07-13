@@ -22,7 +22,12 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 ## 職務経歴書
 　1. [Star Dancers Ballet](https://www.sdballet.com/) 2017年7月 ~ 2020年3月
  <br>
+ 
  <br>
  バレエダンサーとして数々の舞台に主演しました。
+ #### 掲載記事
  <br>
- バレエドラゴンクエスト　➡︎ [エンタメ特化情報サイト　SPICE](https://spice.eplus.jp/articles/185833)
+ バレエドラゴンクエストに主演した際の記事　➡︎ [エンタメ特化情報サイト　SPICE](https://spice.eplus.jp/articles/185833)
+ <br>
+ 日本を代表するダンサーとしてゲストで出演した際の記事 ➡︎ [エンタメ特化情報サイト　SPICE](https://spice.eplus.jp/articles/231904)
+ 
