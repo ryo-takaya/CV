@@ -25,9 +25,15 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
  
  <br>
  バレエダンサーとして数々の舞台に主演しました。
+ <br>
+ 
  #### 掲載記事
+ 
  <br>
+ 
  バレエドラゴンクエストに主演した際の記事　➡︎ [エンタメ特化情報サイト　SPICE](https://spice.eplus.jp/articles/185833)
+ 
  <br>
+ 
  日本を代表するダンサーとしてゲストで出演した際の記事 ➡︎ [エンタメ特化情報サイト　SPICE](https://spice.eplus.jp/articles/231904)
  
