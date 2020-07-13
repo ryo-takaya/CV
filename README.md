@@ -17,19 +17,19 @@
 LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 
 <br>
-<br>
 
 ## 職務経歴書
 
+<br>
+<br>
+
 ### [Star Dancers Ballet](https://www.sdballet.com/) (2017年7月 ~ 2020年3月)
- 
- <br>
  
  <br>
  バレエダンサーとして数々の舞台に主演しました。
  <br>
  
- #### 掲載記事
+ #### 掲載資料
  
  <br>
  
@@ -39,7 +39,7 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
  
  日本を代表するダンサーとしてゲストで出演した際の記事 ➡︎ [エンタメ特化情報サイト　SPICE](https://spice.eplus.jp/articles/231904)
  <br>
- <br>
+<br>
  
  ### [Opera National Bucharest](http://operanb.ro/) (2016年9月 ~ 2017年5月)
  
