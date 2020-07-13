@@ -21,7 +21,7 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 
 ## 職務経歴書
 
-### [Star Dancers Ballet](https://www.sdballet.com/) 2017年7月 ~ 2020年3月
+### [Star Dancers Ballet](https://www.sdballet.com/) (2017年7月 ~ 2020年3月)
  
  <br>
  
@@ -46,7 +46,7 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
  <br>
  <br>
  
- ### [Grand Theater Lodz]
+ ### [Grand Theater Lodz](http://www.operalodz.com/) (2013年9月 ~ 2016年6月)
  
  <br>
  <br>
