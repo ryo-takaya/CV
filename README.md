@@ -50,6 +50,7 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
  
  <br>
  <br>
- 海外で活躍している日本人ダンサーとして新国立劇場にゲスト出演した際の記事 ➡︎ [chaccot dance cube](https://www.chacott-jp.com/news/worldreport/tokyo/detail004550.html)
+ 
+ 海外で活躍している日本人ダンサーとして新国立劇場にゲスト出演した際の記事 ➡︎ [Chacct dance cube](https://www.chacott-jp.com/news/worldreport/tokyo/detail004550.html)
  
  
