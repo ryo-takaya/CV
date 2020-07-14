@@ -22,7 +22,7 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 
 <br>
 
-## 職務経歴書
+## 職務経歴
 
 <br>
 <br>
@@ -34,7 +34,11 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 
 <br>
 
-具体的担当範囲 ➡︎　バレエコースの生徒への指導及び卒業公演へのゲスト出演をしました。
+ - 具体的担当範囲 ➡︎　バレエコースの生徒への指導及び卒業公演へのゲスト出演をしました。
+ 
+ <br>
+ 
+ ***
 
 ### [Star Dancers Ballet](https://www.sdballet.com/) (2017年7月 ~ 2020年3月)
  
@@ -48,7 +52,8 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
  
  - 日本を代表するダンサーとしてゲストで出演した際の記事 ➡︎ [エンタメ特化情報サイト　SPICE](https://spice.eplus.jp/articles/231904)
  <br>
-<br>
+ 
+ ***
  
  ### [Opera National Bucharest](http://operanb.ro/) (2016年9月 ~ 2017年5月)
  
@@ -57,6 +62,8 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 ### 職務:バレエダンサー
  
  <br>
+ 
+ ***
  
  ### [Grand Theater Lodz](http://www.operalodz.com/) (2013年9月 ~ 2016年6月)
  
@@ -74,34 +81,42 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
  ## スキル
  
 <br> 
- フロントエンド / 言語
+
+***  フロントエンド / 言語
+ <br>
 HTML
+<br>
 CSS / SASS
+<br>
 JavaScript
 
 <br>
 
-フロントエンド / ライブラリ・フレームワーク
+*** フロントエンド / ライブラリ・フレームワーク
+<br>
 React・Redux
+<br>
+Next.js
+
 
 <br>
 
-バックエンド / 言語
+*** バックエンド / 言語
 JavaScript / Node.js
 
 <br>
 
-バックエンド / ライブラリ・フレームワーク
+*** バックエンド / ライブラリ・フレームワーク
 Express
 
 <br>
 
-DB
+*** DB
 PostgreSQL
 
 <br>
 
-DB / SQL Query Builder
+*** DB / SQL Query Builder
 Knex
 
  
@@ -133,6 +148,14 @@ Knex
  
  フロントエンド側のリーダーとして初めて使うNEXT.jsを一から学び、フロント側をまとめました。
  
- 
- 
+<br>
+<br>
+<br>
+
+## 興味・学びたい技術
+<br>
+ - typescript
+ - GO
+ - AWS
+
  
