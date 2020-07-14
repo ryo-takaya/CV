@@ -27,7 +27,7 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 <br>
 <br>
 
-### [昭和音楽大学短期学部](https://www.tosei-showa-music.ac.jp/course/college/ballet.html)
+### [昭和音楽大学短期学部](https://www.tosei-showa-music.ac.jp/course/college/ballet.html) (2018年6月 ~ 現在)
 <br>
 
 ### 職務:非常勤嘱託
@@ -154,8 +154,11 @@ Knex
 
 ## 興味・学びたい技術
 <br>
+<br>
  - typescript
+ <br>
  - GO
+ <br>
  - AWS
 
  
