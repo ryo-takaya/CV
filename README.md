@@ -114,9 +114,6 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
  <br>
  
  ## ポートフォリオ
- <br>
- <br>
- 
  ### [らくたび](http://ccj1-rakutabi.cc/)
  
  <br>
@@ -135,7 +132,6 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 <br>
 
 ## 興味・学びたい技術
-<br>
 <br>
  - typescript
  <br>
