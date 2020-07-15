@@ -96,13 +96,13 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 <br>
 
 ### バックエンド / 言語
-<br>
 - JavaScript / Node.js
 
 <br>
 
 ### バックエンド / ライブラリ・フレームワーク
 - Express
+
 <br>
 
 ### DB
