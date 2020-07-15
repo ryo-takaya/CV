@@ -16,8 +16,7 @@
 
 名前 ➡︎　高谷　遼(Takaya Ryo)
 <br>
-年齢　➡︎ 26
-<br>
+
 LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 
 <br>
@@ -34,7 +33,7 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 
 <br>
 
- - 具体的担当範囲 ➡︎　バレエコースの生徒への指導及び卒業公演へのゲスト出演をしました。
+ - 具体的担当範囲 ➡︎　バレエコースの生徒(25~30人)への実技指導及び卒業公演へのゲスト出演をしました。
  
  <br>
  
@@ -83,39 +82,36 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 <br> 
 
 ### フロントエンド / 言語
-HTML
-CSS / SASS
-JavaScript
+- HTML
+- CSS / SASS
+- JavaScript
 
 <br>
 
 ### フロントエンド / ライブラリ・フレームワーク
-React・Redux
-Next.js
+- React・Redux
+- Next.js
 
 
 <br>
 
 ### バックエンド / 言語
 <br>
-JavaScript / Node.js
+- JavaScript / Node.js
 
 <br>
 
 ### バックエンド / ライブラリ・フレームワーク
-<br>
-Express
+- Express
 <br>
 
 ### DB
-<br>
-PostgreSQL
+- PostgreSQL
 
 <br>
 
 ### DB / SQL Query Builder
-<br>
-Knex
+- Knex
 
  
  ## 登壇履歴
@@ -124,7 +120,7 @@ Knex
  ### [Lets’ develop on multiple platform by react](https://www.youtube.com/watch?v=fhKgdzXkQeM&t=3755s)
   <br>
   
- 2020年6月27日　at [Code Chrysalis](https://www.codechrysalis.io/?lng=jp)
+ #### 2020年6月27日　at  [Code Chrysalis](https://www.codechrysalis.io/?lng=jp)
  
  ReactとReactNativeの違いについてざっくりと話させていただきました。色々と知識不足の所はありますが是非見てください。
  
