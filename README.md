@@ -27,8 +27,6 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 <br>
 
 ### [昭和音楽大学短期学部](https://www.tosei-showa-music.ac.jp/course/college/ballet.html) (2018年6月 ~ 現在)
-<br>
-
 ### 職務:非常勤嘱託
 
 <br>
@@ -132,7 +130,6 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 <br>
 
 ## 興味・学びたい技術
-<br>
  - typescript
  <br>
  - GO
@@ -144,10 +141,7 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
  <br>
  
  ## 自己PR
- 
- <br>
- <br>
- 
+
  ### 【厳しい競争社会を勝ち抜く工程で生まれた自走能力、海外生活で身につけた忍耐力】
 7年間バレエダンサーとして活動しています。4,50人いる団体の中で主役を踊れる人間は1人しかいなくそれを勝ち取るべくどうやったら成長できるのか、どのように努力したら結果が出るかと常に模索しました。その結果、自分自身で考えて成長する自走能力や弛まず努力する力を培いました。
 更に最初の4年間を海外で過ごし色々なハプニングや日本人に対してのたくさんの人種差別を受けていく中で絶対に折れない精神力、忍耐力を得ました。そのおかげもあり約2ヶ月間でプログラミングの基礎を学んでシリコンバレー式エンジニアブートキャンプCode Chrysalisの入学試験に合格しました。
