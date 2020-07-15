@@ -120,7 +120,7 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
  ### [Lets’ develop on multiple platform by react](https://www.youtube.com/watch?v=fhKgdzXkQeM&t=3755s)
   <br>
   
- #### 2020年6月27日　at  [Code Chrysalis](https://www.codechrysalis.io/?lng=jp)
+ #### 2020年6月27日 at  [Code Chrysalis](https://www.codechrysalis.io/?lng=jp)
  
  ReactとReactNativeの違いについてざっくりと話させていただきました。色々と知識不足の所はありますが是非見てください。
  
@@ -142,6 +142,8 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
  <br>
  
  フロントエンド側のリーダーとして初めて使うNEXT.jsを一から学び、フロント側をまとめました。
+ 具体的な担当はフロント側のディレクトリ構成やコーディングルール,Next.jsの初期設定,及びユーザー情報のブラウザ側での管理やReact・Reduxを用いてUIコンポーネントとイベントハンドラ・ステート処理などを実装
+
  
 <br>
 <br>
