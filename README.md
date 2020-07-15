@@ -90,7 +90,6 @@ JavaScript
 <br>
 
 ### フロントエンド / ライブラリ・フレームワーク
-<br>
 React・Redux
 Next.js
 
@@ -137,7 +136,8 @@ Knex
  <br>
  <br>
  
- ###　[らくたび](http://ccj1-rakutabi.cc/)
+ ### [らくたび](http://ccj1-rakutabi.cc/)
+ 
  <br>
  日本各地のおすすめのスポットを表示して、それをカスタマイズして自分で旅行の日程を組めます。
  
@@ -163,6 +163,7 @@ Knex
  <br>
  <br>
  <br>
+ 
  ## 自己PR
  
  <br>
