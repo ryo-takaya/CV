@@ -119,6 +119,8 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 
 <br>
 
+ ### 概要
+
 オセロをReactで作りました。(まだデプロイしてません)
 
 <br>
@@ -127,8 +129,16 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 
 <br>
 
+### 概要
+
 todoListをReactNativeで作りました(まだデプロイしてません)
 <br>
+
+## [short spotify ](https://github.com/ryoutaka/test-spotify)
+
+ ### 概要
+ 
+ spotifyのAPIとspotifyのSDKとreactを使って検索したアーティストのアルバムを聴けます
 
 ## 興味・学びたい技術
 
