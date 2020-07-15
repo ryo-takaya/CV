@@ -114,6 +114,12 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
  具体的な担当はフロント側のディレクトリ構成やコーディングルール,Next.jsの初期設定,及びユーザー情報のブラウザ側での管理やReact・Reduxを用いてUIコンポーネントとイベントハンドラ・ステート処理などを実装
 
 <br>
+### Reversi
+
+<br>
+
+オセロを
+
 <br>
 
 ## 興味・学びたい技術
