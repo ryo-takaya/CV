@@ -79,25 +79,12 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 ### フロントエンド / ライブラリ・フレームワーク
 - React・Redux
 - Next.js
-
-
-<br>
-
 ### バックエンド / 言語
 - JavaScript / Node.js
-
-<br>
-
 ### バックエンド / ライブラリ・フレームワーク
 - Express
-
-<br>
-
 ### DB
 - PostgreSQL
-
-<br>
-
 ### DB / SQL Query Builder
 - Knex
 
