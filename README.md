@@ -127,7 +127,7 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 
 <br>
 
-todoListをReactNativeで作りました
+todoListをReactNativeで作りました(まだデプロイしてません)
 <br>
 
 ## 興味・学びたい技術
