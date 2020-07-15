@@ -31,16 +31,20 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 
 <br>
 
- - 具体的担当範囲 ➡︎　バレエコースの生徒(25~30人)への実技指導及び卒業公演へのゲスト出演をしました。
- 
+ #### 担当業務 
+   - 最終学年のバレエコースの生徒(25~30人)へのバレエ実技指導
+   - 卒業公演の指導及びゲスト出演
  <br>
  
  ***
 
 ### [Star Dancers Ballet](https://www.sdballet.com/) (2017年7月 ~ 2020年3月)
 ### 職務:バレエダンサー
+#### 実績
+  - 日本の
+
+#### 資料 
  - バレエドラゴンクエストに主演した際の記事　➡︎ [エンタメ特化情報サイト　SPICE](https://spice.eplus.jp/articles/185833)
- 
  - 日本を代表するダンサーとしてゲストで出演した際の記事 ➡︎ [エンタメ特化情報サイト　SPICE](https://spice.eplus.jp/articles/231904)
  <br>
  
@@ -48,6 +52,7 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
  
  ### [Opera National Bucharest](http://operanb.ro/) (2016年9月 ~ 2017年5月)
 ### 職務:バレエダンサー
+ - 
  
  <br>
  
