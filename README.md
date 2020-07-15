@@ -41,7 +41,7 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 ### [Star Dancers Ballet](https://www.sdballet.com/) (2017年7月 ~ 2020年3月)
 ### 職務:バレエダンサー
 #### 実績
-  - 日本の
+  - フランスで開催される日本のサブカルチャーを紹介する祭典,Japapn Expoにダンサーとして参加しました。
 
 #### 資料 
  - バレエドラゴンクエストに主演した際の記事　➡︎ [エンタメ特化情報サイト　SPICE](https://spice.eplus.jp/articles/185833)
