@@ -114,7 +114,8 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
  具体的な担当はフロント側のディレクトリ構成やコーディングルール,Next.jsの初期設定,及びユーザー情報のブラウザ側での管理やReact・Reduxを用いてUIコンポーネントとイベントハンドラ・ステート処理などを実装
 
 <br>
-### [Reversi](https://github.com/ryoutaka/reversi)
+
+## [Reversi](https://github.com/ryoutaka/reversi)
 
 <br>
 
@@ -122,7 +123,7 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 
 <br>
 
-### [todoList by ReactNative](https://github.com/ryoutaka/todoApp-by-reactNative)
+## [todoList by ReactNative](https://github.com/ryoutaka/todoApp-by-reactNative)
 
 <br>
 
