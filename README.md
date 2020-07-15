@@ -73,9 +73,6 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 - HTML
 - CSS / SASS
 - JavaScript
-
-<br>
-
 ### フロントエンド / ライブラリ・フレームワーク
 - React・Redux
 - Next.js
