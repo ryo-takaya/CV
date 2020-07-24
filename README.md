@@ -105,40 +105,53 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
  
  <br>
  日本各地のおすすめのスポットを表示して、それをカスタマイズして自分で旅行の日程を組めます。
+ <br>
+ 技術スタック:
+ <br>
+ フロントエンド: Next.js, material-UI, react-redux
+ <br>
+ バックエンド:AWS Lamda cognito Dynamo EC2 
  
  ### 担当範囲について
  
  <br>
- 
  フロントエンド側のリーダーとして初めて使うNEXT.jsを一から学び、フロント側をまとめました。
- 具体的な担当はフロント側のディレクトリ構成やコーディングルール,Next.jsの初期設定,及びユーザー情報のブラウザ側での管理やReact・Reduxを用いてUIコンポーネントとイベントハンドラ・ステート処理などを実装
+ <br>
+ 
+ - toppageの画面設計,レスポンシブ対応
+ - react-reduxを用いてのUIコンポーネントとイベントハンドラ・ステート処理などを実装
+ 
+ 
 
 <br>
 
-## [Reversi](https://github.com/ryoutaka/reversi)
+## [BalletCharacterAPI](https://balletapi.herokuapp.com/)
 
 <br>
+自分は元バレエダンサーなのでバレエのキャラクターがCRUDできるシンプルなアプリを作りました。
+<br>
+技術スタック
+<br>
+フロントエンド:html,css,javascript
+<br>
+バックエンド:express.js,knex,postgress
 
- ### 概要
-
-オセロをReactで作りました。(まだデプロイしてません)
 
 <br>
-
-## [todoList by ReactNative](https://github.com/ryoutaka/todoApp-by-reactNative)
-
 <br>
 
-### 概要
-
-todoListをReactNativeで作りました(まだデプロイしてません)
-<br>
-
-## [short spotify ](https://github.com/ryoutaka/test-spotify)
+## [short play spotify ](https://github.com/ryoutaka/test-spotify)
 
  ### 概要
  
- spotifyのAPIとspotifyのSDKとreactを使って検索したアーティストのアルバムを聴けます
+ spotifyのAPIとSDKとreactを使って検索したアーティストのアルバムを聴けます(30秒)。お気に入りのアーティストが見つかったらそれをお気に入りに登録出来ます。
+ 技術スタック
+ <br>
+ フロントエンド:React, React-router-dom, react-redux, material-UI
+ <br>
+ バックエンド:express.js,knex.js,postgress
+ <br>
+ API:soptify
 
 ## 興味・学びたい技術
 
