@@ -90,25 +90,29 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
  <br>
  
  ### [Lets’ develop on multiple platform by react](https://www.youtube.com/watch?v=fhKgdzXkQeM&t=3755s)
-  <br>
-  
+ 
+ <br>
+ 
  #### 2020年6月27日 at  [Code Chrysalis](https://www.codechrysalis.io/?lng=jp)
  
  ReactとReactNativeの違いについてざっくりと話させていただきました。色々と知識不足の所はありますが是非見てください。
- 
- <br>
  <br>
  <br>
  
  ## ポートフォリオ
  ### [らくたび](http://ccj1-rakutabi.cc/)
+ <br>
+ (チーム開発です)
+ <br>
  
- <br>
+ ### 概要
+ 
  日本各地のおすすめのスポットを表示して、それをカスタマイズして自分で旅行の日程を組めます。
- <br>
+ <br> 
+ 
  - 技術スタック
-   -フロントエンド: Next.js, material-UI, react-redux
-   -バックエンド:AWS Lamda cognito Dynamo EC2 
+   - フロントエンド: Next.js, material-UI, react-redux
+   - バックエンド:AWS Lamda cognito Dynamo EC2 
  
  ### 担当範囲について
  
@@ -125,12 +129,15 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 
 ## [BalletCharacterAPI](https://balletapi.herokuapp.com/)
 
+### 概要
+
 <br>
 自分は元バレエダンサーなのでバレエのキャラクターがCRUDできるシンプルなアプリを作りました。
 <br>
+
 - 技術スタック
-- フロントエンド:html,css,javascript
-- バックエンド:express.js,knex,postgress
+  - フロントエンド:html,css,javascript
+  - バックエンド:express.js,knex,postgress
 
 
 <br>
