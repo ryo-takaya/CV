@@ -38,28 +38,29 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
  
  ***
 
-### [Star Dancers Ballet](https://www.sdballet.com/) (2017年7月 ~ 2020年3月)
+### [🇯🇵Star Dancers Ballet](https://www.sdballet.com/) (2017年7月 ~ 2020年3月)
 ### 職務:バレエダンサー
 #### 実績
   - フランスで開催される日本のサブカルチャーを紹介する祭典,Japapn Expoにダンサーとして参加しました。
+  - バレエドラゴンクエストに主演した際の記事　➡︎ [エンタメ特化情報サイト　SPICE](https://spice.eplus.jp/articles/185833)
+  - 日本を代表するダンサーとして清里フィールドバレエにゲストで出演した際の記事 ➡︎ [エンタメ特化情報サイト　SPICE](https://spice.eplus.jp/articles/231904)
+  - 現新国立劇場バレエ団芸術監督、吉田都さんの引退公演にゲスト出演 ➡︎ [ステージナタリー](https://natalie.mu/stage/news/342866)
+ <br>
+ 
+ ***
+ 
+ ### [🇷🇴Opera National Bucharest](http://operanb.ro/) (2016年9月 ~ 2017年5月)
+### 職務:バレエダンサー
+ 
+ 
+ <br>
+ 
+ ***
+ 
+ ### [🇵🇱Grand Theater Lodz](http://www.operalodz.com/) (2013年9月 ~ 2016年6月)
+### 職務:バレエダンサー
 
 #### 資料 
- - バレエドラゴンクエストに主演した際の記事　➡︎ [エンタメ特化情報サイト　SPICE](https://spice.eplus.jp/articles/185833)
- - 日本を代表するダンサーとしてゲストで出演した際の記事 ➡︎ [エンタメ特化情報サイト　SPICE](https://spice.eplus.jp/articles/231904)
- <br>
- 
- ***
- 
- ### [Opera National Bucharest](http://operanb.ro/) (2016年9月 ~ 2017年5月)
-### 職務:バレエダンサー
- - 
- 
- <br>
- 
- ***
- 
- ### [Grand Theater Lodz](http://www.operalodz.com/) (2013年9月 ~ 2016年6月)
-### 職務:バレエダンサー
  - 海外で活躍している日本人ダンサーとして新国立劇場にゲスト出演した際の記事 ➡︎ [Chacct dance cube](https://www.chacott-jp.com/news/worldreport/tokyo/detail004550.html)
  
  <br>
@@ -132,8 +133,7 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 ### 概要
 
 <br>
-自分は元バレエダンサーなのでバレエのキャラクターがCRUDできるシンプルなアプリを作りました。
-<br>
+自分は元バレエダンサーなのでバレエのキャラクターがCRUDできるシンプルなアプリを作りました。<br>
 
 - 技術スタック
   - フロントエンド:html,css,javascript
@@ -159,12 +159,7 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 ## 興味・学びたい技術
 
  - typescript
- <br>
- 
  - GO
- 
- <br>
- 
  - AWS
  
  <br>
