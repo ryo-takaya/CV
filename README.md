@@ -106,11 +106,9 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
  <br>
  日本各地のおすすめのスポットを表示して、それをカスタマイズして自分で旅行の日程を組めます。
  <br>
- 技術スタック:
- <br>
- フロントエンド: Next.js, material-UI, react-redux
- <br>
- バックエンド:AWS Lamda cognito Dynamo EC2 
+ - 技術スタック
+   -フロントエンド: Next.js, material-UI, react-redux
+   -バックエンド:AWS Lamda cognito Dynamo EC2 
  
  ### 担当範囲について
  
@@ -130,11 +128,9 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 <br>
 自分は元バレエダンサーなのでバレエのキャラクターがCRUDできるシンプルなアプリを作りました。
 <br>
-技術スタック
-<br>
-フロントエンド:html,css,javascript
-<br>
-バックエンド:express.js,knex,postgress
+- 技術スタック
+- フロントエンド:html,css,javascript
+- バックエンド:express.js,knex,postgress
 
 
 <br>
@@ -145,11 +141,11 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
  ### 概要
  
  spotifyのAPIとSDKとreactを使って検索したアーティストのアルバムを聴けます(30秒)。お気に入りのアーティストが見つかったらそれをお気に入りに登録出来ます。
- 技術スタック
  <br>
- フロントエンド:React, React-router-dom, react-redux, material-UI
- <br>
- バックエンド:express.js,knex.js,postgress
+ - 技術スタック
+   - フロントエンド:React, React-router-dom, react-redux, material-UI
+   - バックエンド:express.js,knex.js,postgress
+   - API : SpotifyAPI,SpotifySDK
  <br>
  API:soptify
 
