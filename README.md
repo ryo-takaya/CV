@@ -146,7 +146,7 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 <br>
 <br>
 
-## [short play spotify ](https://github.com/ryoutaka/test-spotify)
+## [short play spotify ](https://play-spotify-wow.herokuapp.com/#/)
 
  ### 概要
  
