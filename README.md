@@ -143,11 +143,13 @@ LinkedIn ➡︎ [LinkedIn](https://www.linkedin.com/in/ryotakaya/)
 ### 概要
 
 <br>
-自分は元バレエダンサーなのでバレエのキャラクターがCRUDできるシンプルなアプリを作りました。<br>
-
-- 技術スタック
-  - フロントエンド:html,css,javascript
-  - バックエンド:express.js,knex,postgress
+範囲
+  作成期間は約二日で一人で作成しました。
+  RE 担当 STfulな設計のAPIを勉強する為に作ってみました。APIのレスポンス結果が分かりやすいように静的ファイルをサーブしてそこからAPIを叩けるようにしてみました。
+  最初はGETの送信ボタンを押してみてください。全てのキャラクターが見えます。
+  ・フロントエンドは基本的なDOM操作を学ぶ為にあえてライブラリを使わず素のJavascriptを使って書きました。
+  ・バックエンドはRESTfulなURI設計を意識したAPIをexpress.js,knex.js,postgresを作成しました。
+  ・今後はキャラクターの名前だけといった特定の情報を取ってこれる柔軟なアプリにしたいので、GraphQL版も実装していきたいです。
 
 
 <br>
